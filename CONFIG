@@ -1,0 +1,15 @@
+# Mail server configuration
+SMTP_HOST=
+SMTP_USER_NAME=
+SMTP_USER_PASSWORD=
+#MAIL configuration
+MAIL_FROM=
+MAIL_TO=
+MAIL_SUBJECT=mail subject
+#HTML tagging configuration
+HTML_START_TAG=<html>
+HTML_END_TAG=</html>
+#JIRA settings
+JIRA_USER_NAME=
+JIRA_PASSWORD=
+JIRA_QUERY=
